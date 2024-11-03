@@ -1,1 +1,1 @@
-# js-dom-practice-project-one
+# wit-js-dom-practice-project-one
